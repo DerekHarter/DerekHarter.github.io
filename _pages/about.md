@@ -13,7 +13,10 @@ University](http://www.tamuc.edu) in Commerce, TX.  The [Computer
 Science Department at TAMUC](http://www.tamuc.edu/cs) offers
 undergraduate degree programs in Computer Science and Computer
 Information Systems, as well as teaching certificates for primary
-school teachers of Computer science.
+school teachers of Computer science.  For our Masters graduate program,
+we offer degrees in traditional Computer Science, and a degree in
+Computational Sciences, which focuses on interdisciplinary
+scientific comput, modeling and data analytics.
 
 My primary research interests are in deep learning, machine learning
 in general and in understanding human and animal cognition using
