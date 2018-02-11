@@ -8,4 +8,6 @@
 - redirect hostmonster domains (derekharter.com and harter.pro) to
   derekharter.github.io
 - add abstracts to all publication bibtex entries
+  - check all links
+  - make sure a doi or url is present for all
 - get hostmonster servers to serve this home page system directly.
